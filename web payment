@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Payment Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f2f2f2;
+      padding: 20px;
+      text-align: center;
+    }
+    h1 {
+      color: #333;
+    }
+    .payment-option {
+      background: #fff;
+      padding: 20px;
+      margin: 15px auto;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      max-width: 400px;
+    }
+    img.qr {
+      width: 200px;
+      margin-top: 10px;
+    }
+    .label {
+      font-size: 18px;
+      margin-top: 10px;
+    }
+    .number {
+      font-weight: bold;
+      font-size: 20px;
+      color: #000;
+    }
+  </style>
+</head>
+<body>
+  <h1>Silakan Lakukan Pembayaran</h1>
+
+  <div class="payment-option">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_dana_blue.svg" alt="Dana" width="120"/>
+    <div class="label">Nomor Dana</div>
+    <div class="number">0821-2317-9079</div>
+    <img class="qr" src="https://files.catbox.moe/n53yxm.jpg" alt="QR Dana">
+  </div>
+
+  <div class="payment-option">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Logo_ovo_purple.svg" alt="OVO" width="120"/>
+    <div class="label">Nomor OVO</div>
+    <div class="number">0831-8353-3491</div>
+    <img class="qr" src="https://files.catbox.moe/05vri6.jpg" alt="QR OVO">
+  </div>
+
+  <div class="payment-option">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gopay_logo.svg/2560px-Gopay_logo.svg.png" alt="GoPay" width="120"/>
+    <div class="label">Nomor GoPay</div>
+    <div class="number">0831-8353-3491</div>
+    <img class="qr" src="https://files.catbox.moe/wppxm4.jpg" alt="QR Gopay">
+  </div>
+
+  <div class="payment-option">
+    <h3>QRIS Payment</h3>
+    <img class="qr" src="https://files.catbox.moe/a1n0s0.jpg" alt="QR QRIS">
+    <div class="label">Scan QRIS dari aplikasi e-wallet kamu</div>
+  </div>
+
+</body>
+</html>
+ <div class="payment-option">
+    <h3>PEMBERITAHUAN</h3>
+    <img class="qr" src="https://files.catbox.moe/yvdevl.jpg" alt="QR QRIS">
+    <div class="label">JIKA KAMU SUDAH MEMBAYAR SILAHKAN HUB @ibnustore1 ATAU @yaetiem DAN MEMBAWA BUKTI TRANSFER 👌</div>
+  </div>
+
+</body>
+</html>
